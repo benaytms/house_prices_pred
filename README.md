@@ -5,6 +5,8 @@ This project uses the classic Kaggle Data set called House Prices to make predic
 ## Correlation Matrix Numeric columns with Sale Price
 ![correlation matrix](/imgs/heatmap.svg)
 
+Recommended: Download SVG file and analyze values with free zoom
+
 ---
 
 ## Scatter Plot (Sale Price by Year Built with Remodelling variable as Hue)
