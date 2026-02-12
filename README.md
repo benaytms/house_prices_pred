@@ -24,8 +24,6 @@ This project uses the classic Kaggle Data set called House Prices to make predic
 ## Line Plot (Sale Price by Age of House)
 ![saleprice_houseage](imgs/HouseAge_SalePrice.svg)
 
-<span style='color:green;font-weight:bold;font-size:14px'>
-There are more plots in the imgs directory.
-</span>
-
+<span style='color:green;font-weight:bold'>
+There are more plots in the imgs directory. <br>
 </span>
