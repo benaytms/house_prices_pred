@@ -17,7 +17,7 @@ This project uses the classic Kaggle Data set called House Prices to make predic
 ---
 
 ## Scatter Plot (Sale Price by Year Built with Remodelling variable as Hue)
-![saleprice_yearbuilt](imgs/YearBuilt_SalePrice_Remodeled.png)
+![saleprice_yearbuilt](imgs/YearBuilt_SalePrice_Remodeled.svg)
 
 ---
 
