@@ -2,14 +2,30 @@
 
 This project uses the classic Kaggle Data set called House Prices to make predictions of, you guessed it, house prices.
 
-## Correlation Matrix Numeric columns with Sale Price
-![correlation matrix](/imgs/heatmap.svg)
+---
 
-Recommended: Download SVG file and analyze values with free zoom
+## These are some plots from the EDA phase
+
+## Histogram Plots that show skewness on numerical features
+![histograms](imgs/Histogram_nums.svg)
+
+---
+
+## Correlation Matrix Numeric columns with Sale Price
+![correlation_matrix](/imgs/Heatmap.svg)
 
 ---
 
 ## Scatter Plot (Sale Price by Year Built with Remodelling variable as Hue)
-![saleprice_yrbuilt](imgs/YrBuilt_SalePrice_Remod.png)
+![saleprice_yearbuilt](imgs/YearBuilt_SalePrice_Remodeled.png)
 
 ---
+
+## Line Plot (Sale Price by Age of House)
+![saleprice_houseage](imgs/HouseAge_SalePrice.svg)
+
+<span style='color:green;font-weight:bold;font-size:14px'>
+There are more plots in the imgs directory.
+</span>
+
+</span>
