@@ -9,6 +9,9 @@ This project uses the classic Kaggle Data set called House Prices to make predic
 ## Histogram Plots that show skewness on numerical features
 ![histograms](imgs/Histogram_nums.svg)
 
+## Sale Prices skewness
+![saleprices_skewness](imgs/SalePrice_Skewness.svg)
+
 ---
 
 ## Correlation Matrix Numeric columns with Sale Price
