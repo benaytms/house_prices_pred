@@ -12,6 +12,9 @@ This project uses the classic Kaggle Data set called House Prices to make predic
 ## Sale Prices skewness
 ![saleprices_skewness](imgs/SalePrice_Skewness.svg)
 
+## Sale Prices skewness after Log transform
+![saleprices_skewness_transformed](imgs/SalePrice_Skewness_after_Transformation.svg)
+
 ---
 
 ## Correlation Matrix Numeric columns with Sale Price
