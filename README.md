@@ -1,6 +1,11 @@
 # House Pricing Prediction
 
-This project uses the classic Kaggle Data set called House Prices to make predictions of, you guessed it, house prices.
+This project is for the Kaggle competition called [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) 
+to make predictions of, you guessed it, house prices.
+
+Kaggle Score: **0.13040**
+
+Which means about 13% of the predictions were wrong, which is solid for this data set.
 
 ---
 
